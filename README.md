@@ -15,10 +15,12 @@ npm run start
 ```
 
 ## Requirements
+```javascrıpt
 node js
 tailwind
 react-icon
 react-confetti(npm)
+```
 
 #### GAME LINK
 [XOX GAME](https://shopping-list-app-lilac.vercel.app/)
