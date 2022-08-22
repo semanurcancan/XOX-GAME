@@ -23,7 +23,7 @@ react-confetti(npm)
 ```
 
 #### GAME LINK
-[XOX GAME](https://shopping-list-app-lilac.vercel.app/)
+[XOX GAME](https://xox-game-nu.vercel.app/)
 
 
 
