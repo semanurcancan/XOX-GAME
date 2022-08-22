@@ -163,7 +163,7 @@ function App() {
           })}
       </div>
 
-      {win ? <div className='mt-10 text-3xl text'>PLAYER {player == 2 ? 1 : (vsAI ? 'AI' : 2)} WON THE GAME</div> : ""}
+      {win ? <div className='mt-10 text-3xl text'>PLAYER {player == 2 ? 1 : (vsAI ? 'AI' : 2)} WON THE GAME</div> : (availableSpaces().length == 0 ? <div className='mt-10 text-3xl text'>IT'S A DRAW</div>:'')}
       {
         win ?
           <Confetti
